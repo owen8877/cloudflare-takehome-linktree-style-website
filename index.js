@@ -22,7 +22,7 @@ const links = [
 		url: "https://github.com/owen8877/calendar-as-diary",
 	},
 	{
-		name: "🐿️👒 On Twitter: \"Deep thinking https://t.co/iDRt2afnHl\" / Twitter",
+		name: "Deep thinking https://t.co/iDRt2afnHl / Twitter",
 		url: "https://twitter.com/SythonUK/status/1013702083227222017",
 	},
 	{
